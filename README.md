@@ -1,5 +1,5 @@
 # Confluent Open Source Helm Chart
-
+# Just to check it out
 **The Confluent Platform Helm charts are in developer preview and are not supported for production use.**
 
 The [Confluent Platform Helm charts](https://github.com/confluentinc/cp-helm-charts) enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.
