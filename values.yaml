@@ -32,6 +32,10 @@ cp-zookeeper:
   #  requests:
   #   cpu: 100m
   #   memory: 128Mi
+  nodeport:
+    enabled: true
+    servicePort: 19092
+    firstListenerPort: 31090
 
 ## ------------------------------------------------------
 ## Kafka
